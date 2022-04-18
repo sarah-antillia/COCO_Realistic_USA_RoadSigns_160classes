@@ -2,7 +2,7 @@
 
 <h2>Sligtly Realistic USA RoadSigns 160classes</h2>
 
-This is a USA RoadSigns train and valid dataset annotated by TFRecord format. 
+This is a USA RoadSigns train and valid dataset annotated by COCO format. 
 It contains 160 classes, and each image size is 512x512.<br>
 
 This dataset has been created based on <a href="https://en.wikipedia.org/wiki/Road_signs_in_the_United_States">Road signs in the United States.</a>
